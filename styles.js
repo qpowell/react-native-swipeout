@@ -1,5 +1,5 @@
-var React = require('react-native')
-var {StyleSheet} = React
+var React = require('react')
+var {StyleSheet} = require('react-native')
 
 var styles = StyleSheet.create({
   swipeout: {
